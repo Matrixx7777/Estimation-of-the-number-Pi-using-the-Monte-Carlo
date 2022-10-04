@@ -1,4 +1,4 @@
-# :: Estimation-of-the-number-Pi-using-the-Monte-Carlo-method ::
+# :: Estimation-of-the-number-Pi-using-Monte-Carlo ::
 ## Description:
 **Monte Carlo methods are a broad class of computational algorithms that rely on repeated random sampling to obtain numerical results. One of the basic examples of getting started with the Monte Carlo algorithm is the estimation of Pi.
 We are able to approximate in on the mathematical constant Pi using Monte Carlo simulation, which is a multi-random experiment-based method.**
