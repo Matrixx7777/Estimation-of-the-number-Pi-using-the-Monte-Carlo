@@ -11,7 +11,7 @@ We are able to approximate in on the mathematical constant Pi using Monte Carlo 
 4. If was calculated `(x^2 + y^2) <= 1` , insert points inside the circle, otherwise points will be outside the circle,
 5. The error cannot be more than one hundred million, and if one is greater than 0, end the loop.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-_**My application was built in Java with using SpringBoot. You can see a view of the application by localhost:8080 with extra "gets" properties. I've saved it in Docker as well so I don't have to run a Java virtual machine although I inserted my app here I inserted my application here to show the syntax from the program**_
+_**My application was built in Java with using SpringBoot. You can see a view of the application by localhost:8080 with extra "gets" properties. I've saved it in Docker as well so I don't have to run a Java virtual machine although I inserted my application here to show the syntax from the program**_
 
 ## Docker 
 ![doc_1](https://user-images.githubusercontent.com/73428356/193866260-f7cbb0d4-50aa-4d55-ab87-53e0991936a7.jpg)
